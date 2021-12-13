@@ -11,5 +11,5 @@ I'm a Computer Engineering student at [UTFPR](http://portal.utfpr.edu.br/english
 ### 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/thiago-angelo-martins-717308a9/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiguz&layout=compact&theme=dark&exclude_repo=megagame,dotfiles" style="height: 150px">
-<img src="https://github-readme-stats.vercel.app/api?username=Taiguz&show_icons=true&theme=dark&layout=compact&count_private=true&hide=issues" style="height: 150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiguz&layout=compact&theme=dark&exclude_repo=megagame,dotfiles" style="height: 150px; width: 300px">
+<img src="https://github-readme-stats.vercel.app/api?username=Taiguz&show_icons=true&theme=dark&layout=compact&count_private=true&hide=issues" style="height: 150px; width: 350px">
